@@ -2,7 +2,7 @@
 
 Submitted by: **Bulut Gozubuyuk**
 
-**Name of your app** is an app that... [TODO] 
+**Hello Swift** is an app that... Lets you change the background color with a button 
 
 Time spent: **2** hours spent in total
 
@@ -33,6 +33,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   - Built-in package tracking
   - Built in mail categorization
 
+
+
+* App Idea
+
+* ChefAI is an iOS app that creates personalized recipes based on your ingredients, diet, and cuisine preferences using OpenAI's API. Features include a shopping list generator, nutritional info, and options to save or adjust recipes.
 
 
 ## Notes
