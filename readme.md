@@ -21,16 +21,15 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
-- Whatsapp
-
+* Whatsapp
  - background color
  - simple and fast messaging
 
-- Google Authenticator
+* Google Authenticator
  - Saving keys to cloud
  - Remaining duration for keys
 
-- Gmail
+* Gmail
  - Built-in package tracking
  - Built in mail categorization
 
