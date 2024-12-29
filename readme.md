@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [*] Users are see a screen with three labels and a button
-- [*] Tapping the button changes the screen color to a random color
+- [:heavy_check_mark:] Users are see a screen with three labels and a button
+- [:heavy_check_mark:] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -23,8 +23,10 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 - Whatsapp
 
--- Simple, and fast messaging
--- 
+ - background color
+ - simple and fast messaging
+
+
 
 ## Notes
 
