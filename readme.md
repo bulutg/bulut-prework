@@ -10,8 +10,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [:heavy_check_mark:] Users are see a screen with three labels and a button
-- [:heavy_check_mark:] Tapping the button changes the screen color to a random color
+- [✅] Users are see a screen with three labels and a button
+- [✅] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -25,6 +25,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
  - background color
  - simple and fast messaging
+
+- Google Authenticator
+ - Saving keys to cloud
+ - Remaining duration for keys
+
+- Gmail
+ - Built-in package tracking
+ - Built in mail categorization
 
 
 
